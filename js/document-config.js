@@ -1,6 +1,6 @@
 var documentConfig =
 {
-  title: "word2respec",
+  title: "Catalogus Basisregristratie Adressen en Gebouwen",
   subtitle: "catalogus IMBAG",
   shortName: "IMBAG",
   pubDomain: "bag",
@@ -10,7 +10,8 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/bag/IMBAG/"
   ],
-  publishDate: "2025-02-11",
+  publishDate: "2025-06-17",
+  publishVersion: "2.1.0",
   thisVersion: [
     "https://geonovum.github.io/bag-IMBAG/"
   ],
