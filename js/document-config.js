@@ -1,7 +1,7 @@
 var documentConfig =
 {
-  title: "Catalogus Basisregristratie Adressen en Gebouwen",
-  subtitle: "catalogus IMBAG",
+  title: "Catalogus Basisregistratie Adressen en Gebouwen",
+  subtitle: "versie 2.0.1 2026",
   shortName: "IMBAG",
   pubDomain: "bag",
   specStatus: "wv",
@@ -10,8 +10,8 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/bag/IMBAG/"
   ],
-  publishDate: "2025-07-01",
-  publishVersion: "2.1.0",
+  publishDate: "2026-05-19",
+  publishVersion: "2.0.1",
   thisVersion: [
     "https://geonovum.github.io/bag-IMBAG/"
   ],
@@ -21,7 +21,7 @@ var documentConfig =
   canonicalURI: "https://docs.geostandaarden.nl/bag/IMBAG/",
   editors: [
     {
-      name: "Geonovum",
+      name: "Silvy Horbach",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
