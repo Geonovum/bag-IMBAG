@@ -7,14 +7,8 @@ var documentConfig =
   specStatus: "wv",
   specType: "st",
   license: "cc-by-nd",
-  // latestVersion: [
-  //   "https://docs.geostandaarden.nl/bag/imbag/"
-  // ],
   publishDate: "2026-10-20",
   publishVersion: "2.0.1",
-  // thisVersion: [
-  //   "https://geonovum.github.io/bag-imbag/"
-  // ],
   github: "https://github.com/geonovum/bag-imbag/",
   issueBase: "https://github.com/geonovum/bag-imbag/issues/",
   edDraftURI: "https://geonovum.github.io/bag-imbag/",
@@ -27,14 +21,14 @@ var documentConfig =
     }
   ],
   localBiblio: {
-    "BAG": {
-      title: "IMBAG",
-      href: "",
-      authors: "",
-      publisher: "",
-      editors: "",
-      date: "",
-      status: ""
-    }
+    // "BAG": {
+    //   title: "IMBAG",
+    //   href: "",
+    //   authors: "",
+    //   publisher: "",
+    //   editors: "",
+    //   date: "",
+    //   status: ""
+    // }
   }
 }
