@@ -4,7 +4,7 @@
 ## Woonplaats {#11759D27}
 
 ### identificatie {#7E1D5662}
-<table id='d6aGbBbB' style='width: 100%;'><caption>Beschrijving van het attribuut identificatie</caption>
+<table id='d6aGbBbB' style='width: 100%;'><caption><span class='tblno'>Tabel 27</span>   Beschrijving van het attribuut identificatie</caption>
 <colgroup><col id='col1-d6aGbBbB' style='width: 30%;'>
 <col id='col2-d6aGbBbB' style='width: 70%;'>
 </colgroup>
@@ -68,7 +68,7 @@
 
 
 ### naam {#701BA055}
-<table id='d6aGbCbB' style='width: 100%;'><caption>Beschrijving van het attribuut naam</caption>
+<table id='d6aGbCbB' style='width: 100%;'><caption><span class='tblno'>Tabel 28</span>   Beschrijving van het attribuut naam</caption>
 <colgroup><col id='col1-d6aGbCbB' style='width: 30%;'>
 <col id='col2-d6aGbCbB' style='width: 70%;'>
 </colgroup>
@@ -132,7 +132,7 @@
 
 
 ### geometrie {#6F0162E0}
-<table id='d6aGbDbB' style='width: 100%;'><caption>Beschrijving van het attribuut geometrie</caption>
+<table id='d6aGbDbB' style='width: 100%;'><caption><span class='tblno'>Tabel 29</span>   Beschrijving van het attribuut geometrie</caption>
 <colgroup><col id='col1-d6aGbDbB' style='width: 30%;'>
 <col id='col2-d6aGbDbB' style='width: 70%;'>
 </colgroup>
@@ -196,7 +196,7 @@
 
 
 ### status {#65924714}
-<table id='d6aGbEbB' style='width: 100%;'><caption>Beschrijving van het attribuut status</caption>
+<table id='d6aGbEbB' style='width: 100%;'><caption><span class='tblno'>Tabel 30</span>   Beschrijving van het attribuut status</caption>
 <colgroup><col id='col1-d6aGbEbB' style='width: 30%;'>
 <col id='col2-d6aGbEbB' style='width: 70%;'>
 </colgroup>
@@ -260,7 +260,7 @@
 
 
 ### geconstateerd {#422E6111}
-<table id='d6aGbFbB' style='width: 100%;'><caption>Beschrijving van het attribuut geconstateerd</caption>
+<table id='d6aGbFbB' style='width: 100%;'><caption><span class='tblno'>Tabel 31</span>   Beschrijving van het attribuut geconstateerd</caption>
 <colgroup><col id='col1-d6aGbFbB' style='width: 30%;'>
 <col id='col2-d6aGbFbB' style='width: 70%;'>
 </colgroup>
@@ -324,7 +324,7 @@
 
 
 ### documentdatum {#48769591}
-<table id='d6aGbGbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentdatum</caption>
+<table id='d6aGbGbB' style='width: 100%;'><caption><span class='tblno'>Tabel 32</span>   Beschrijving van het attribuut documentdatum</caption>
 <colgroup><col id='col1-d6aGbGbB' style='width: 30%;'>
 <col id='col2-d6aGbGbB' style='width: 70%;'>
 </colgroup>
@@ -388,7 +388,7 @@
 
 
 ### documentnummer {#31C7E428}
-<table id='d6aGbHbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentnummer</caption>
+<table id='d6aGbHbB' style='width: 100%;'><caption><span class='tblno'>Tabel 33</span>   Beschrijving van het attribuut documentnummer</caption>
 <colgroup><col id='col1-d6aGbHbB' style='width: 30%;'>
 <col id='col2-d6aGbHbB' style='width: 70%;'>
 </colgroup>
@@ -454,7 +454,7 @@
 ## Openbare ruimte {#3E40F5E2}
 
 ### identificatie {#6E03DE7B}
-<table id='d6aGcBbB' style='width: 100%;'><caption>Beschrijving van het attribuut identificatie</caption>
+<table id='d6aGcBbB' style='width: 100%;'><caption><span class='tblno'>Tabel 34</span>   Beschrijving van het attribuut identificatie</caption>
 <colgroup><col id='col1-d6aGcBbB' style='width: 30%;'>
 <col id='col2-d6aGcBbB' style='width: 70%;'>
 </colgroup>
@@ -518,7 +518,7 @@
 
 
 ### naam {#0906A70B}
-<table id='d6aGcCbB' style='width: 100%;'><caption>Beschrijving van het attribuut naam</caption>
+<table id='d6aGcCbB' style='width: 100%;'><caption><span class='tblno'>Tabel 35</span>   Beschrijving van het attribuut naam</caption>
 <colgroup><col id='col1-d6aGcCbB' style='width: 30%;'>
 <col id='col2-d6aGcCbB' style='width: 70%;'>
 </colgroup>
@@ -582,7 +582,7 @@
 
 
 ### type {#06E3195B}
-<table id='d6aGcDbB' style='width: 100%;'><caption>Beschrijving van het attribuut type</caption>
+<table id='d6aGcDbB' style='width: 100%;'><caption><span class='tblno'>Tabel 36</span>   Beschrijving van het attribuut type</caption>
 <colgroup><col id='col1-d6aGcDbB' style='width: 30%;'>
 <col id='col2-d6aGcDbB' style='width: 70%;'>
 </colgroup>
@@ -646,7 +646,7 @@
 
 
 ### status {#04CF3295}
-<table id='d6aGcEbB' style='width: 100%;'><caption>Beschrijving van het attribuut status</caption>
+<table id='d6aGcEbB' style='width: 100%;'><caption><span class='tblno'>Tabel 37</span>   Beschrijving van het attribuut status</caption>
 <colgroup><col id='col1-d6aGcEbB' style='width: 30%;'>
 <col id='col2-d6aGcEbB' style='width: 70%;'>
 </colgroup>
@@ -710,7 +710,7 @@
 
 
 ### geconstateerd {#32C2FA03}
-<table id='d6aGcFbB' style='width: 100%;'><caption>Beschrijving van het attribuut geconstateerd</caption>
+<table id='d6aGcFbB' style='width: 100%;'><caption><span class='tblno'>Tabel 38</span>   Beschrijving van het attribuut geconstateerd</caption>
 <colgroup><col id='col1-d6aGcFbB' style='width: 30%;'>
 <col id='col2-d6aGcFbB' style='width: 70%;'>
 </colgroup>
@@ -774,7 +774,7 @@
 
 
 ### documentdatum {#4C5246EA}
-<table id='d6aGcGbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentdatum</caption>
+<table id='d6aGcGbB' style='width: 100%;'><caption><span class='tblno'>Tabel 39</span>   Beschrijving van het attribuut documentdatum</caption>
 <colgroup><col id='col1-d6aGcGbB' style='width: 30%;'>
 <col id='col2-d6aGcGbB' style='width: 70%;'>
 </colgroup>
@@ -838,7 +838,7 @@
 
 
 ### documentnummer {#3364A4A9}
-<table id='d6aGcHbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentnummer</caption>
+<table id='d6aGcHbB' style='width: 100%;'><caption><span class='tblno'>Tabel 40</span>   Beschrijving van het attribuut documentnummer</caption>
 <colgroup><col id='col1-d6aGcHbB' style='width: 30%;'>
 <col id='col2-d6aGcHbB' style='width: 70%;'>
 </colgroup>
@@ -902,7 +902,7 @@
 
 
 ### Relatie: ligt in gerelateerde woonplaats {#361C70F4}
-<table id='d6aGcIbB' style='width: 100%;'><caption>Beschrijving van de relatiesoort: ligt in</caption>
+<table id='d6aGcIbB' style='width: 100%;'><caption><span class='tblno'>Tabel 41</span>   Beschrijving van de relatiesoort: ligt in</caption>
 <colgroup><col id='col1-d6aGcIbB' style='width: 30%;'>
 <col id='col2-d6aGcIbB' style='width: 70%;'>
 </colgroup>
@@ -916,7 +916,7 @@
 </tbody>
 </table>
 
-<table id='d6aGcIbD' style='width: 100%;'><caption>Beschrijving van de relatierol: gerelateerde woonplaats</caption>
+<table id='d6aGcIbD' style='width: 100%;'><caption><span class='tblno'>Tabel 42</span>   Beschrijving van de relatierol: gerelateerde woonplaats</caption>
 <colgroup><col id='col1-d6aGcIbD' style='width: 30%;'>
 <col id='col2-d6aGcIbD' style='width: 70%;'>
 </colgroup>
@@ -982,7 +982,7 @@
 ## Nummeraanduiding {#69FCE8CA}
 
 ### identificatie {#4AC4F502}
-<table id='d6aGdBbB' style='width: 100%;'><caption>Beschrijving van het attribuut identificatie</caption>
+<table id='d6aGdBbB' style='width: 100%;'><caption><span class='tblno'>Tabel 43</span>   Beschrijving van het attribuut identificatie</caption>
 <colgroup><col id='col1-d6aGdBbB' style='width: 30%;'>
 <col id='col2-d6aGdBbB' style='width: 70%;'>
 </colgroup>
@@ -1046,7 +1046,7 @@
 
 
 ### huisnummer {#05B32C5C}
-<table id='d6aGdCbB' style='width: 100%;'><caption>Beschrijving van het attribuut huisnummer</caption>
+<table id='d6aGdCbB' style='width: 100%;'><caption><span class='tblno'>Tabel 44</span>   Beschrijving van het attribuut huisnummer</caption>
 <colgroup><col id='col1-d6aGdCbB' style='width: 30%;'>
 <col id='col2-d6aGdCbB' style='width: 70%;'>
 </colgroup>
@@ -1110,7 +1110,7 @@
 
 
 ### huisletter {#2F9E2288}
-<table id='d6aGdDbB' style='width: 100%;'><caption>Beschrijving van het attribuut huisletter</caption>
+<table id='d6aGdDbB' style='width: 100%;'><caption><span class='tblno'>Tabel 45</span>   Beschrijving van het attribuut huisletter</caption>
 <colgroup><col id='col1-d6aGdDbB' style='width: 30%;'>
 <col id='col2-d6aGdDbB' style='width: 70%;'>
 </colgroup>
@@ -1174,7 +1174,7 @@
 
 
 ### huisnummertoevoeging {#3AC817A6}
-<table id='d6aGdEbB' style='width: 100%;'><caption>Beschrijving van het attribuut huisnummertoevoeging</caption>
+<table id='d6aGdEbB' style='width: 100%;'><caption><span class='tblno'>Tabel 46</span>   Beschrijving van het attribuut huisnummertoevoeging</caption>
 <colgroup><col id='col1-d6aGdEbB' style='width: 30%;'>
 <col id='col2-d6aGdEbB' style='width: 70%;'>
 </colgroup>
@@ -1238,7 +1238,7 @@
 
 
 ### postcode {#4DCE7A44}
-<table id='d6aGdFbB' style='width: 100%;'><caption>Beschrijving van het attribuut postcode</caption>
+<table id='d6aGdFbB' style='width: 100%;'><caption><span class='tblno'>Tabel 47</span>   Beschrijving van het attribuut postcode</caption>
 <colgroup><col id='col1-d6aGdFbB' style='width: 30%;'>
 <col id='col2-d6aGdFbB' style='width: 70%;'>
 </colgroup>
@@ -1302,7 +1302,7 @@
 
 
 ### type adresseerbaar object {#5F76232D}
-<table id='d6aGdGbB' style='width: 100%;'><caption>Beschrijving van het attribuut type adresseerbaar object</caption>
+<table id='d6aGdGbB' style='width: 100%;'><caption><span class='tblno'>Tabel 48</span>   Beschrijving van het attribuut type adresseerbaar object</caption>
 <colgroup><col id='col1-d6aGdGbB' style='width: 30%;'>
 <col id='col2-d6aGdGbB' style='width: 70%;'>
 </colgroup>
@@ -1366,7 +1366,7 @@
 
 
 ### status {#3E65EB13}
-<table id='d6aGdHbB' style='width: 100%;'><caption>Beschrijving van het attribuut status</caption>
+<table id='d6aGdHbB' style='width: 100%;'><caption><span class='tblno'>Tabel 49</span>   Beschrijving van het attribuut status</caption>
 <colgroup><col id='col1-d6aGdHbB' style='width: 30%;'>
 <col id='col2-d6aGdHbB' style='width: 70%;'>
 </colgroup>
@@ -1430,7 +1430,7 @@
 
 
 ### geconstateerd {#392966B6}
-<table id='d6aGdIbB' style='width: 100%;'><caption>Beschrijving van het attribuut geconstateerd</caption>
+<table id='d6aGdIbB' style='width: 100%;'><caption><span class='tblno'>Tabel 50</span>   Beschrijving van het attribuut geconstateerd</caption>
 <colgroup><col id='col1-d6aGdIbB' style='width: 30%;'>
 <col id='col2-d6aGdIbB' style='width: 70%;'>
 </colgroup>
@@ -1494,7 +1494,7 @@
 
 
 ### documentdatum {#7B80C5FD}
-<table id='d6aGdJbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentdatum</caption>
+<table id='d6aGdJbB' style='width: 100%;'><caption><span class='tblno'>Tabel 51</span>   Beschrijving van het attribuut documentdatum</caption>
 <colgroup><col id='col1-d6aGdJbB' style='width: 30%;'>
 <col id='col2-d6aGdJbB' style='width: 70%;'>
 </colgroup>
@@ -1558,7 +1558,7 @@
 
 
 ### documentnummer {#7E8BB122}
-<table id='d6aGdKbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentnummer</caption>
+<table id='d6aGdKbB' style='width: 100%;'><caption><span class='tblno'>Tabel 52</span>   Beschrijving van het attribuut documentnummer</caption>
 <colgroup><col id='col1-d6aGdKbB' style='width: 29.99669275713813%;'>
 <col id='col2-d6aGdKbB' style='width: 70.00330724286187%;'>
 </colgroup>
@@ -1622,7 +1622,7 @@
 
 
 ### Relatie: ligt in gerelateerde woonplaats {#28AD44A3}
-<table id='d6aGdLbB' style='width: 100%;'><caption>Beschrijving van de relatiesoort: ligt in</caption>
+<table id='d6aGdLbB' style='width: 100%;'><caption><span class='tblno'>Tabel 53</span>   Beschrijving van de relatiesoort: ligt in</caption>
 <colgroup><col id='col1-d6aGdLbB' style='width: 30%;'>
 <col id='col2-d6aGdLbB' style='width: 70%;'>
 </colgroup>
@@ -1636,7 +1636,7 @@
 </tbody>
 </table>
 
-<table id='d6aGdLbD' style='width: 100%;'><caption>Beschrijving van de relatierol: gerelateerde woonplaats</caption>
+<table id='d6aGdLbD' style='width: 100%;'><caption><span class='tblno'>Tabel 54</span>   Beschrijving van de relatierol: gerelateerde woonplaats</caption>
 <colgroup><col id='col1-d6aGdLbD' style='width: 30%;'>
 <col id='col2-d6aGdLbD' style='width: 70%;'>
 </colgroup>
@@ -1700,7 +1700,7 @@
 
 
 ### Relatie: ligt aan gerelateerde openbare ruimte {#411CF588}
-<table id='d6aGdMbB' style='width: 100%;'><caption>Beschrijving van de relatiesoort: ligt aan</caption>
+<table id='d6aGdMbB' style='width: 100%;'><caption><span class='tblno'>Tabel 55</span>   Beschrijving van de relatiesoort: ligt aan</caption>
 <colgroup><col id='col1-d6aGdMbB' style='width: 30%;'>
 <col id='col2-d6aGdMbB' style='width: 70%;'>
 </colgroup>
@@ -1714,7 +1714,7 @@
 </tbody>
 </table>
 
-<table id='d6aGdMbD' style='width: 100%;'><caption>Beschrijving van de relatierol: gerelateerde openbare ruimte</caption>
+<table id='d6aGdMbD' style='width: 100%;'><caption><span class='tblno'>Tabel 56</span>   Beschrijving van de relatierol: gerelateerde openbare ruimte</caption>
 <colgroup><col id='col1-d6aGdMbD' style='width: 30%;'>
 <col id='col2-d6aGdMbD' style='width: 70%;'>
 </colgroup>
@@ -1780,7 +1780,7 @@
 ## Pand {#0EE4249D}
 
 ### identificatie {#787E51B0}
-<table id='d6aGeBbB' style='width: 100%;'><caption>Beschrijving van het attribuut identificatie</caption>
+<table id='d6aGeBbB' style='width: 100%;'><caption><span class='tblno'>Tabel 57</span>   Beschrijving van het attribuut identificatie</caption>
 <colgroup><col id='col1-d6aGeBbB' style='width: 30%;'>
 <col id='col2-d6aGeBbB' style='width: 70%;'>
 </colgroup>
@@ -1844,7 +1844,7 @@
 
 
 ### geometrie {#3952C551}
-<table id='d6aGeCbB' style='width: 100%;'><caption>Beschrijving van het attribuut geometrie</caption>
+<table id='d6aGeCbB' style='width: 100%;'><caption><span class='tblno'>Tabel 58</span>   Beschrijving van het attribuut geometrie</caption>
 <colgroup><col id='col1-d6aGeCbB' style='width: 30%;'>
 <col id='col2-d6aGeCbB' style='width: 70%;'>
 </colgroup>
@@ -1908,7 +1908,7 @@
 
 
 ### oorspronkelijk bouwjaar {#4FA0438F}
-<table id='d6aGeDbB' style='width: 100%;'><caption>Beschrijving van het attribuut bouwjaar</caption>
+<table id='d6aGeDbB' style='width: 100%;'><caption><span class='tblno'>Tabel 59</span>   Beschrijving van het attribuut bouwjaar</caption>
 <colgroup><col id='col1-d6aGeDbB' style='width: 30%;'>
 <col id='col2-d6aGeDbB' style='width: 70%;'>
 </colgroup>
@@ -1972,7 +1972,7 @@
 
 
 ### status {#17CCE80A}
-<table id='d6aGeEbB' style='width: 100%;'><caption>Beschrijving van het attribuut status</caption>
+<table id='d6aGeEbB' style='width: 100%;'><caption><span class='tblno'>Tabel 60</span>   Beschrijving van het attribuut status</caption>
 <colgroup><col id='col1-d6aGeEbB' style='width: 30%;'>
 <col id='col2-d6aGeEbB' style='width: 70%;'>
 </colgroup>
@@ -2036,7 +2036,7 @@
 
 
 ### geconstateerd {#663EEB15}
-<table id='d6aGeFbB' style='width: 100%;'><caption>Beschrijving van het attribuut geconstateerd</caption>
+<table id='d6aGeFbB' style='width: 100%;'><caption><span class='tblno'>Tabel 61</span>   Beschrijving van het attribuut geconstateerd</caption>
 <colgroup><col id='col1-d6aGeFbB' style='width: 30%;'>
 <col id='col2-d6aGeFbB' style='width: 70%;'>
 </colgroup>
@@ -2100,7 +2100,7 @@
 
 
 ### documentdatum {#6779FC8A}
-<table id='d6aGeGbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentdatum</caption>
+<table id='d6aGeGbB' style='width: 100%;'><caption><span class='tblno'>Tabel 62</span>   Beschrijving van het attribuut documentdatum</caption>
 <colgroup><col id='col1-d6aGeGbB' style='width: 30%;'>
 <col id='col2-d6aGeGbB' style='width: 70%;'>
 </colgroup>
@@ -2164,7 +2164,7 @@
 
 
 ### documentnummer {#4A85B0C7}
-<table id='d6aGeHbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentnummer</caption>
+<table id='d6aGeHbB' style='width: 100%;'><caption><span class='tblno'>Tabel 63</span>   Beschrijving van het attribuut documentnummer</caption>
 <colgroup><col id='col1-d6aGeHbB' style='width: 30%;'>
 <col id='col2-d6aGeHbB' style='width: 70%;'>
 </colgroup>
@@ -2230,7 +2230,7 @@
 ## Adresseerbaar object {#14EDA6E5}
 
 ### Relatie: heeft als hoofdadres hoofdadres {#4F275C33}
-<table id='d6aGfBbB' style='width: 100%;'><caption>Beschrijving van de relatiesoort: heeft als hoofdadres</caption>
+<table id='d6aGfBbB' style='width: 100%;'><caption><span class='tblno'>Tabel 64</span>   Beschrijving van de relatiesoort: heeft als hoofdadres</caption>
 <colgroup><col id='col1-d6aGfBbB' style='width: 30%;'>
 <col id='col2-d6aGfBbB' style='width: 70%;'>
 </colgroup>
@@ -2244,7 +2244,7 @@
 </tbody>
 </table>
 
-<table id='d6aGfBbD' style='width: 100%;'><caption>Beschrijving van de relatierol: hoofdadres</caption>
+<table id='d6aGfBbD' style='width: 100%;'><caption><span class='tblno'>Tabel 65</span>   Beschrijving van de relatierol: hoofdadres</caption>
 <colgroup><col id='col1-d6aGfBbD' style='width: 30%;'>
 <col id='col2-d6aGfBbD' style='width: 70%;'>
 </colgroup>
@@ -2308,7 +2308,7 @@
 
 
 ### Relatie: heeft als nevenadres nevenadres {#1060C826}
-<table id='d6aGfCbB' style='width: 100%;'><caption>Beschrijving van de relatiesoort: heeft als nevenadres</caption>
+<table id='d6aGfCbB' style='width: 100%;'><caption><span class='tblno'>Tabel 66</span>   Beschrijving van de relatiesoort: heeft als nevenadres</caption>
 <colgroup><col id='col1-d6aGfCbB' style='width: 30%;'>
 <col id='col2-d6aGfCbB' style='width: 70%;'>
 </colgroup>
@@ -2322,7 +2322,7 @@
 </tbody>
 </table>
 
-<table id='d6aGfCbD' style='width: 100%;'><caption>Beschrijving van de relatierol: nevenadres</caption>
+<table id='d6aGfCbD' style='width: 100%;'><caption><span class='tblno'>Tabel 67</span>   Beschrijving van de relatierol: nevenadres</caption>
 <colgroup><col id='col1-d6aGfCbD' style='width: 30%;'>
 <col id='col2-d6aGfCbD' style='width: 70%;'>
 </colgroup>
@@ -2388,7 +2388,7 @@
 ## Ligplaats {#718FA37C}
 
 ### identificatie {#11F09E59}
-<table id='d6aGgBbB' style='width: 100%;'><caption>Beschrijving van het attribuut identificatie</caption>
+<table id='d6aGgBbB' style='width: 100%;'><caption><span class='tblno'>Tabel 68</span>   Beschrijving van het attribuut identificatie</caption>
 <colgroup><col id='col1-d6aGgBbB' style='width: 30%;'>
 <col id='col2-d6aGgBbB' style='width: 70%;'>
 </colgroup>
@@ -2452,7 +2452,7 @@
 
 
 ### status {#1A634FAB}
-<table id='d6aGgCbB' style='width: 100%;'><caption>Beschrijving van het attribuut status</caption>
+<table id='d6aGgCbB' style='width: 100%;'><caption><span class='tblno'>Tabel 69</span>   Beschrijving van het attribuut status</caption>
 <colgroup><col id='col1-d6aGgCbB' style='width: 30%;'>
 <col id='col2-d6aGgCbB' style='width: 70%;'>
 </colgroup>
@@ -2516,7 +2516,7 @@
 
 
 ### geometrie {#1A3AA4F1}
-<table id='d6aGgDbB' style='width: 100%;'><caption>Beschrijving van het attribuut geometrie</caption>
+<table id='d6aGgDbB' style='width: 100%;'><caption><span class='tblno'>Tabel 70</span>   Beschrijving van het attribuut geometrie</caption>
 <colgroup><col id='col1-d6aGgDbB' style='width: 30%;'>
 <col id='col2-d6aGgDbB' style='width: 70%;'>
 </colgroup>
@@ -2580,7 +2580,7 @@
 
 
 ### geconstateerd {#7A65802C}
-<table id='d6aGgEbB' style='width: 100%;'><caption>Beschrijving van het attribuut geconstateerd</caption>
+<table id='d6aGgEbB' style='width: 100%;'><caption><span class='tblno'>Tabel 71</span>   Beschrijving van het attribuut geconstateerd</caption>
 <colgroup><col id='col1-d6aGgEbB' style='width: 30%;'>
 <col id='col2-d6aGgEbB' style='width: 70%;'>
 </colgroup>
@@ -2644,7 +2644,7 @@
 
 
 ### documentdatum {#26BC8922}
-<table id='d6aGgFbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentdatum</caption>
+<table id='d6aGgFbB' style='width: 100%;'><caption><span class='tblno'>Tabel 72</span>   Beschrijving van het attribuut documentdatum</caption>
 <colgroup><col id='col1-d6aGgFbB' style='width: 30%;'>
 <col id='col2-d6aGgFbB' style='width: 70%;'>
 </colgroup>
@@ -2708,7 +2708,7 @@
 
 
 ### documentnummer {#2A12AC42}
-<table id='d6aGgGbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentnummer</caption>
+<table id='d6aGgGbB' style='width: 100%;'><caption><span class='tblno'>Tabel 73</span>   Beschrijving van het attribuut documentnummer</caption>
 <colgroup><col id='col1-d6aGgGbB' style='width: 30%;'>
 <col id='col2-d6aGgGbB' style='width: 70%;'>
 </colgroup>
@@ -2774,7 +2774,7 @@
 ## Standplaats {#4E30D619}
 
 ### identificatie {#0284B8AB}
-<table id='d6aGhBbB' style='width: 100%;'><caption>Beschrijving van het attribuut identificatie</caption>
+<table id='d6aGhBbB' style='width: 100%;'><caption><span class='tblno'>Tabel 74</span>   Beschrijving van het attribuut identificatie</caption>
 <colgroup><col id='col1-d6aGhBbB' style='width: 30%;'>
 <col id='col2-d6aGhBbB' style='width: 70%;'>
 </colgroup>
@@ -2838,7 +2838,7 @@
 
 
 ### status {#20281AE3}
-<table id='d6aGhCbB' style='width: 100%;'><caption>Beschrijving van het attribuut status</caption>
+<table id='d6aGhCbB' style='width: 100%;'><caption><span class='tblno'>Tabel 75</span>   Beschrijving van het attribuut status</caption>
 <colgroup><col id='col1-d6aGhCbB' style='width: 30%;'>
 <col id='col2-d6aGhCbB' style='width: 70%;'>
 </colgroup>
@@ -2902,7 +2902,7 @@
 
 
 ### geometrie {#38EF5C0B}
-<table id='d6aGhDbB' style='width: 100%;'><caption>Beschrijving van het attribuut geometrie</caption>
+<table id='d6aGhDbB' style='width: 100%;'><caption><span class='tblno'>Tabel 76</span>   Beschrijving van het attribuut geometrie</caption>
 <colgroup><col id='col1-d6aGhDbB' style='width: 30%;'>
 <col id='col2-d6aGhDbB' style='width: 70%;'>
 </colgroup>
@@ -2966,7 +2966,7 @@
 
 
 ### geconstateerd {#6F1EADA5}
-<table id='d6aGhEbB' style='width: 100%;'><caption>Beschrijving van het attribuut geconstateerd</caption>
+<table id='d6aGhEbB' style='width: 100%;'><caption><span class='tblno'>Tabel 77</span>   Beschrijving van het attribuut geconstateerd</caption>
 <colgroup><col id='col1-d6aGhEbB' style='width: 30%;'>
 <col id='col2-d6aGhEbB' style='width: 70%;'>
 </colgroup>
@@ -3030,7 +3030,7 @@
 
 
 ### documentdatum {#33422483}
-<table id='d6aGhFbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentdatum</caption>
+<table id='d6aGhFbB' style='width: 100%;'><caption><span class='tblno'>Tabel 78</span>   Beschrijving van het attribuut documentdatum</caption>
 <colgroup><col id='col1-d6aGhFbB' style='width: 30%;'>
 <col id='col2-d6aGhFbB' style='width: 70%;'>
 </colgroup>
@@ -3094,7 +3094,7 @@
 
 
 ### documentnummer {#7CBF3DBD}
-<table id='d6aGhGbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentnummer</caption>
+<table id='d6aGhGbB' style='width: 100%;'><caption><span class='tblno'>Tabel 79</span>   Beschrijving van het attribuut documentnummer</caption>
 <colgroup><col id='col1-d6aGhGbB' style='width: 30%;'>
 <col id='col2-d6aGhGbB' style='width: 70%;'>
 </colgroup>
@@ -3160,7 +3160,7 @@
 ## Verblijfsobject {#3D6CF636}
 
 ### identificatie {#40F9055D}
-<table id='d6aGiBbB' style='width: 100%;'><caption>Beschrijving van het attribuut identificatie</caption>
+<table id='d6aGiBbB' style='width: 100%;'><caption><span class='tblno'>Tabel 80</span>   Beschrijving van het attribuut identificatie</caption>
 <colgroup><col id='col1-d6aGiBbB' style='width: 30%;'>
 <col id='col2-d6aGiBbB' style='width: 70%;'>
 </colgroup>
@@ -3224,7 +3224,7 @@
 
 
 ### geometrie {#310598E1}
-<table id='d6aGiCbB' style='width: 100%;'><caption>Beschrijving van het attribuut geometrie</caption>
+<table id='d6aGiCbB' style='width: 100%;'><caption><span class='tblno'>Tabel 81</span>   Beschrijving van het attribuut geometrie</caption>
 <colgroup><col id='col1-d6aGiCbB' style='width: 30%;'>
 <col id='col2-d6aGiCbB' style='width: 70%;'>
 </colgroup>
@@ -3288,7 +3288,7 @@
 
 
 ### gebruiksdoel {#005F8F36}
-<table id='d6aGiDbB' style='width: 100%;'><caption>Beschrijving van het attribuut gebruiksdoel</caption>
+<table id='d6aGiDbB' style='width: 100%;'><caption><span class='tblno'>Tabel 82</span>   Beschrijving van het attribuut gebruiksdoel</caption>
 <colgroup><col id='col1-d6aGiDbB' style='width: 30%;'>
 <col id='col2-d6aGiDbB' style='width: 70%;'>
 </colgroup>
@@ -3352,7 +3352,7 @@
 
 
 ### oppervlakte {#5CC0A171}
-<table id='d6aGiEbB' style='width: 100%;'><caption>Beschrijving van het attribuut oppervlakte</caption>
+<table id='d6aGiEbB' style='width: 100%;'><caption><span class='tblno'>Tabel 83</span>   Beschrijving van het attribuut oppervlakte</caption>
 <colgroup><col id='col1-d6aGiEbB' style='width: 30%;'>
 <col id='col2-d6aGiEbB' style='width: 70%;'>
 </colgroup>
@@ -3419,7 +3419,7 @@
 
 
 ### status {#7A5DBFC0}
-<table id='d6aGiFbB' style='width: 100%;'><caption>Beschrijving van het attribuut status</caption>
+<table id='d6aGiFbB' style='width: 100%;'><caption><span class='tblno'>Tabel 84</span>   Beschrijving van het attribuut status</caption>
 <colgroup><col id='col1-d6aGiFbB' style='width: 30%;'>
 <col id='col2-d6aGiFbB' style='width: 70%;'>
 </colgroup>
@@ -3483,7 +3483,7 @@
 
 
 ### geconstateerd {#23B4F175}
-<table id='d6aGiGbB' style='width: 100%;'><caption>Beschrijving van het attribuut geconstateerd</caption>
+<table id='d6aGiGbB' style='width: 100%;'><caption><span class='tblno'>Tabel 85</span>   Beschrijving van het attribuut geconstateerd</caption>
 <colgroup><col id='col1-d6aGiGbB' style='width: 30%;'>
 <col id='col2-d6aGiGbB' style='width: 70%;'>
 </colgroup>
@@ -3547,7 +3547,7 @@
 
 
 ### documentdatum {#2000230C}
-<table id='d6aGiHbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentdatum</caption>
+<table id='d6aGiHbB' style='width: 100%;'><caption><span class='tblno'>Tabel 86</span>   Beschrijving van het attribuut documentdatum</caption>
 <colgroup><col id='col1-d6aGiHbB' style='width: 30%;'>
 <col id='col2-d6aGiHbB' style='width: 70%;'>
 </colgroup>
@@ -3611,7 +3611,7 @@
 
 
 ### documentnummer {#51E85500}
-<table id='d6aGiIbB' style='width: 100%;'><caption>Beschrijving van het attribuut documentnummer</caption>
+<table id='d6aGiIbB' style='width: 100%;'><caption><span class='tblno'>Tabel 87</span>   Beschrijving van het attribuut documentnummer</caption>
 <colgroup><col id='col1-d6aGiIbB' style='width: 30%;'>
 <col id='col2-d6aGiIbB' style='width: 70%;'>
 </colgroup>
@@ -3675,7 +3675,7 @@
 
 
 ### Relatie: maakt deel uit van gerelateerd pand {#5B67FFFC}
-<table id='d6aGiJbB' style='width: 100%;'><caption>Beschrijving van de relatiesoort: maakt deel uit van</caption>
+<table id='d6aGiJbB' style='width: 100%;'><caption><span class='tblno'>Tabel 88</span>   Beschrijving van de relatiesoort: maakt deel uit van</caption>
 <colgroup><col id='col1-d6aGiJbB' style='width: 29.99669275713813%;'>
 <col id='col2-d6aGiJbB' style='width: 70.00330724286187%;'>
 </colgroup>
@@ -3689,7 +3689,7 @@
 </tbody>
 </table>
 
-<table id='d6aGiJbD' style='width: 100%;'><caption>Beschrijving van de relatierol: gerelateerd pand</caption>
+<table id='d6aGiJbD' style='width: 100%;'><caption><span class='tblno'>Tabel 89</span>   Beschrijving van de relatierol: gerelateerd pand</caption>
 <colgroup><col id='col1-d6aGiJbD' style='width: 30%;'>
 <col id='col2-d6aGiJbD' style='width: 70%;'>
 </colgroup>
@@ -3755,8 +3755,8 @@
 ## Samengestelde attributen {#00683209}
 
 ### Objectnummering {#07737F01}
-<p>Deze paragraaf geeft een beschrijving (zie <a href='#d6aGjBbC'>Tabel 90</a>) en benoemt de gegevens-elementen (zie <a href='#d6aGjBbE'>Tabel 91</a>) van het samengestelde attribuut objectnummering.</p>
-<table id='d6aGjBbC' style='width: 100%;'><caption>Beschrijving van het samengestelde attribuut objectnummering</caption>
+<p id='3007C7DC'>Deze paragraaf geeft een beschrijving (zie <a href='#d6aGjBbC'>Tabel 90</a>) en benoemt de gegevens-elementen (zie <a href='#d6aGjBbE'>Tabel 91</a>) van het samengestelde attribuut objectnummering.</p>
+<table id='d6aGjBbC' style='width: 100%;'><caption><span class='tblno'>Tabel 90</span>   Beschrijving van het samengestelde attribuut objectnummering</caption>
 <colgroup><col id='col1-d6aGjBbC' style='width: 30%;'>
 <col id='col2-d6aGjBbC' style='width: 70%;'>
 </colgroup>
@@ -3776,7 +3776,7 @@
 </tbody>
 </table>
 
-<table id='d6aGjBbE' style='width: 100%;'><caption>Overzicht van de gegevenselementen van het samengestelde attribuut objectnummering</caption>
+<table id='d6aGjBbE' style='width: 100%;'><caption><span class='tblno'>Tabel 91</span>   Overzicht van de gegevenselementen van het samengestelde attribuut objectnummering</caption>
 <colgroup><col id='col1-d6aGjBbE' style='width: 33.322295805739515%;'>
 <col id='col2-d6aGjBbE' style='width: 33.33333333333333%;'>
 <col id='col3-d6aGjBbE' style='width: 33.34437086092715%;'>
@@ -3803,7 +3803,7 @@
 
 
 #### gemeentecode {#2C4DFE00}
-<table id='d6aGjBcBb' style='width: 100%;'><caption>Beschrijving van het gegevenselement gemeentecode</caption>
+<table id='d6aGjBcBb' style='width: 100%;'><caption><span class='tblno'>Tabel 92</span>   Beschrijving van het gegevenselement gemeentecode</caption>
 <colgroup><col id='col1-d6aGjBcBb' style='width: 30%;'>
 <col id='col2-d6aGjBcBb' style='width: 70%;'>
 </colgroup>
@@ -3867,7 +3867,7 @@
 
 
 #### objecttypecode {#5F99E2C9}
-<table id='d6aGjBdBb' style='width: 100%;'><caption>Beschrijving van het gegevenselement objecttypecode</caption>
+<table id='d6aGjBdBb' style='width: 100%;'><caption><span class='tblno'>Tabel 93</span>   Beschrijving van het gegevenselement objecttypecode</caption>
 <colgroup><col id='col1-d6aGjBdBb' style='width: 30%;'>
 <col id='col2-d6aGjBdBb' style='width: 70%;'>
 </colgroup>
@@ -3931,7 +3931,7 @@
 
 
 #### objectvolgnummer  {#7377A4A4}
-<table id='d6aGjBeBb' style='width: 100%;'><caption>Beschrijving van het gegevenselement objectvolgnummer</caption>
+<table id='d6aGjBeBb' style='width: 100%;'><caption><span class='tblno'>Tabel 94</span>   Beschrijving van het gegevenselement objectvolgnummer</caption>
 <colgroup><col id='col1-d6aGjBeBb' style='width: 30%;'>
 <col id='col2-d6aGjBeBb' style='width: 70%;'>
 </colgroup>
@@ -3995,8 +3995,8 @@
 
 
 ### puntOfVlak {#10771E1F}
-<p>Deze paragraaf geeft een beschrijving (zie <a href='#d6aGjCbC'>Tabel 95</a>) en benoemt de gegevens-elementen (zie <a href='#d6aGjCbE'>Tabel 96</a>) van het samengestelde attribuut puntOfVlak</p>
-<table id='d6aGjCbC' style='width: 100%;'><caption>Beschrijving van het samengestelde attribuut puntOfVlak</caption>
+<p id='76AE68DF'>Deze paragraaf geeft een beschrijving (zie <a href='#d6aGjCbC'>Tabel 95</a>) en benoemt de gegevens-elementen (zie <a href='#d6aGjCbE'>Tabel 96</a>) van het samengestelde attribuut puntOfVlak</p>
+<table id='d6aGjCbC' style='width: 100%;'><caption><span class='tblno'>Tabel 95</span>   Beschrijving van het samengestelde attribuut puntOfVlak</caption>
 <colgroup><col id='col1-d6aGjCbC' style='width: 30%;'>
 <col id='col2-d6aGjCbC' style='width: 70%;'>
 </colgroup>
@@ -4016,7 +4016,7 @@
 </tbody>
 </table>
 
-<table id='d6aGjCbE' style='width: 100%;'><caption>Overzicht van de gegevenselementen van het samengestelde attribuut puntOfVlak</caption>
+<table id='d6aGjCbE' style='width: 100%;'><caption><span class='tblno'>Tabel 96</span>   Overzicht van de gegevenselementen van het samengestelde attribuut puntOfVlak</caption>
 <colgroup><col id='col1-d6aGjCbE' style='width: 33.322295805739515%;'>
 <col id='col2-d6aGjCbE' style='width: 33.33333333333333%;'>
 <col id='col3-d6aGjCbE' style='width: 33.34437086092715%;'>
@@ -4039,7 +4039,7 @@
 
 
 #### punt  {#312187F4}
-<table id='d6aGjCcBb' style='width: 100%;'><caption>Beschrijving van het gegevenselement punt</caption>
+<table id='d6aGjCcBb' style='width: 100%;'><caption><span class='tblno'>Tabel 97</span>   Beschrijving van het gegevenselement punt</caption>
 <colgroup><col id='col1-d6aGjCcBb' style='width: 30%;'>
 <col id='col2-d6aGjCcBb' style='width: 70%;'>
 </colgroup>
@@ -4103,7 +4103,7 @@
 
 
 #### vlak {#32E2F1E8}
-<table id='d6aGjCdBb' style='width: 100%;'><caption>Beschrijving van het gegevenselement vlak</caption>
+<table id='d6aGjCdBb' style='width: 100%;'><caption><span class='tblno'>Tabel 98</span>   Beschrijving van het gegevenselement vlak</caption>
 <colgroup><col id='col1-d6aGjCdBb' style='width: 30%;'>
 <col id='col2-d6aGjCdBb' style='width: 70%;'>
 </colgroup>
@@ -4167,8 +4167,8 @@
 
 
 ### vlakOfMultivlak {#442DC321}
-<p>Deze paragraaf geeft een beschrijving (zie <a href='#d6aGjDbC'>Tabel 99</a>) en benoemt de gegevens-elementen (zie <a href='#d6aGjDbE'>Tabel 100</a>) van het samengestelde attribuut vlakOfMultivlak</p>
-<table id='d6aGjDbC' style='width: 100%;'><caption>Beschrijving van het samengestelde attribuut vlakOfMultivlak</caption>
+<p id='2E23DE1B'>Deze paragraaf geeft een beschrijving (zie <a href='#d6aGjDbC'>Tabel 99</a>) en benoemt de gegevens-elementen (zie <a href='#d6aGjDbE'>Tabel 100</a>) van het samengestelde attribuut vlakOfMultivlak</p>
+<table id='d6aGjDbC' style='width: 100%;'><caption><span class='tblno'>Tabel 99</span>   Beschrijving van het samengestelde attribuut vlakOfMultivlak</caption>
 <colgroup><col id='col1-d6aGjDbC' style='width: 30%;'>
 <col id='col2-d6aGjDbC' style='width: 70%;'>
 </colgroup>
@@ -4188,7 +4188,7 @@
 </tbody>
 </table>
 
-<table id='d6aGjDbE' style='width: 100%;'><caption>Overzicht van de gegevenselementen van het samengestelde attribuut vlakOfMultivlak</caption>
+<table id='d6aGjDbE' style='width: 100%;'><caption><span class='tblno'>Tabel 100</span>   Overzicht van de gegevenselementen van het samengestelde attribuut vlakOfMultivlak</caption>
 <colgroup><col id='col1-d6aGjDbE' style='width: 33.322295805739515%;'>
 <col id='col2-d6aGjDbE' style='width: 33.33333333333333%;'>
 <col id='col3-d6aGjDbE' style='width: 33.34437086092715%;'>
@@ -4211,7 +4211,7 @@
 
 
 #### vlak {#3CEF6AB6}
-<table id='d6aGjDcBb' style='width: 100%;'><caption>Beschrijving van het gegevenselement vlak</caption>
+<table id='d6aGjDcBb' style='width: 100%;'><caption><span class='tblno'>Tabel 101</span>   Beschrijving van het gegevenselement vlak</caption>
 <colgroup><col id='col1-d6aGjDcBb' style='width: 30%;'>
 <col id='col2-d6aGjDcBb' style='width: 70%;'>
 </colgroup>
@@ -4275,7 +4275,7 @@
 
 
 #### multivlak {#1A48CEF7}
-<table id='d6aGjDdBb' style='width: 100%;'><caption>Beschrijving van het gegevenselement multivlak</caption>
+<table id='d6aGjDdBb' style='width: 100%;'><caption><span class='tblno'>Tabel 102</span>   Beschrijving van het gegevenselement multivlak</caption>
 <colgroup><col id='col1-d6aGjDdBb' style='width: 30%;'>
 <col id='col2-d6aGjDdBb' style='width: 70%;'>
 </colgroup>
@@ -4341,7 +4341,7 @@
 ## Gegevenstypen {#2C01EE45}
 
 ### AN {#103B41DC}
-<table id='d6aGkBbB' style='width: 100%;'><caption>Beschrijving van het gegevenstype AN</caption>
+<table id='d6aGkBbB' style='width: 100%;'><caption><span class='tblno'>Tabel 103</span>   Beschrijving van het gegevenstype AN</caption>
 <colgroup><col id='col1-d6aGkBbB' style='width: 30%;'>
 <col id='col2-d6aGkBbB' style='width: 70%;'>
 </colgroup>

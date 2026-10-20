@@ -2,23 +2,23 @@ var documentConfig =
 {
   title: "Catalogus Basisregistratie Adressen en Gebouwen",
   subtitle: "versie 2.0.1",
-  shortName: "IMBAG",
+  shortName: "imbag",
   pubDomain: "bag",
   specStatus: "wv",
   specType: "st",
   license: "cc-by-nd",
   // latestVersion: [
-  //   "https://docs.geostandaarden.nl/bag/IMBAG/"
+  //   "https://docs.geostandaarden.nl/bag/imbag/"
   // ],
-  publishDate: "2026-10-13",
+  publishDate: "2026-10-20",
   publishVersion: "2.0.1",
   // thisVersion: [
-  //   "https://geonovum.github.io/bag-IMBAG/"
+  //   "https://geonovum.github.io/bag-imbag/"
   // ],
-  github: "https://github.com/geonovum/bag-IMBAG/",
-  issueBase: "https://github.com/geonovum/bag-IMBAG/issues/",
-  edDraftURI: "https://geonovum.github.io/bag-IMBAG/",
-  canonicalURI: "https://docs.geostandaarden.nl/bag/IMBAG/",
+  github: "https://github.com/geonovum/bag-imbag/",
+  issueBase: "https://github.com/geonovum/bag-imbag/issues/",
+  edDraftURI: "https://geonovum.github.io/bag-imbag/",
+  canonicalURI: "https://docs.geostandaarden.nl/bag/imbag/",
   editors: [
     {
       name: "Geonovum - Kadaster - Ministerie van BZK",
