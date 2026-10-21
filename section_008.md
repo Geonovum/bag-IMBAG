@@ -71,7 +71,7 @@
 <th class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='05CD43E3'>Omschrijving</p></th>
 </tr>
 </thead>
-<tbody><tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='7E02BB98'>Woonfunctie</p></td>
+<tbody><tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='7E02BB98'>woonfunctie</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='49E3A603'>Gebruiksfunctie voor het wonen</p></td>
 </tr>
 <tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='57A3ED9D'>bijeenkomstfunctie</p></td>

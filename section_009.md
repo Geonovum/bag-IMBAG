@@ -15,23 +15,23 @@
 <p id='7758694A'>De materiële en formele historie worden met de volgende tijdstippen geïmplementeerd in de BAG:</p>
 
 <p id='3BCD1197'><span style='color: #4472C4;'>Materiële historie</span></p>
-<p id='5A2F51D4'><b>beginGeldigheid</b><b>:</b></p>
-<p id='076B656D'>De datum waarop een versie van een BAG-object geldig is in de werkelijkheid conform de ingangsdatum in het brondocument. Dit tijdstip wordt vastgelegd in de <i>beginGeldigheid</i>. Als er geen expliciete ingangsdatum van geldigheid is opgenomen, wordt de datum van het brondocument overgenomen.</p>
+<p id='5A2F51D4'><b>beginGeldigheid:</b></p>
+<p style='margin-left: 12.5mm;' id='076B656D'>De datum waarop een versie van een BAG-object geldig is in de werkelijkheid conform de ingangsdatum in het brondocument. Dit tijdstip wordt vastgelegd in de <i>beginGeldigheid</i>. Als er geen expliciete ingangsdatum van geldigheid is opgenomen, wordt de datum van het brondocument overgenomen.</p>
 
-<p id='6BE5096C'><b>eindGeldigheid</b><b>:</b></p>
-<p id='0CE4B296'>De datum waarop de periode van geldigheid van een versie van een BAG-object eindigt. Bijvoorbeeld als gevolg van de vaststelling van een nieuw brondocument. Wanneer er geen tijdstip is ingevuld, dan is de versie nog geldig. Dit tijdstip wordt vastgelegd in de <i>eindGeldigheid</i>.</p>
+<p id='6BE5096C'><b>eindGeldigheid:</b></p>
+<p style='margin-left: 12.5mm;' id='0CE4B296'>De datum waarop de periode van geldigheid van een versie van een BAG-object eindigt. Bijvoorbeeld als gevolg van de vaststelling van een nieuw brondocument. Wanneer er geen tijdstip is ingevuld, dan is de versie nog geldig. Dit tijdstip wordt vastgelegd in de <i>eindGeldigheid</i>.</p>
 
 <p id='2BBDFA2E'>De BAG legt materiële historie (<i>beginGeldigheid</i> en <i>eindGeldigheid</i>) en de datum van het brondocument (documentDatum) vast met de nauwkeurigheid van datum.</p>
 
 <p id='6E1B3553'><span style='color: #4472C4;'>Formele historie</span></p>
-<p id='5B590F29'><b>tijdstipRegistratie</b><b>:</b></p>
-<p id='602625A0'>Het tijdstip waarop een versie van een BAG-object is geregistreerd in de registratie van bronhouder en daarmee authentiek wordt gemaakt. Dit tijdstip wordt vastgelegd in de <i>tijdstipRegistratie</i>.</p>
+<p id='5B590F29'><b>tijdstipRegistratie:</b></p>
+<p style='margin-left: 12.5mm;' id='602625A0'>Het tijdstip waarop een versie van een BAG-object is geregistreerd in de registratie van bronhouder en daarmee authentiek wordt gemaakt. Dit tijdstip wordt vastgelegd in de <i>tijdstipRegistratie</i>.</p>
 
-<p id='5DE5D5B6'><b>eindRegistratie</b><b>:</b></p>
-<p id='0B9B4EC1'>Het tijdstip waarop een versie van een BAG-object is beëindigd in de registratie van bronhouder. Dit tijdstip wordt vastgelegd in de <i>eindRegistratie</i>.</p>
+<p id='5DE5D5B6'><b>eindRegistratie:</b></p>
+<p style='margin-left: 12.5mm;' id='0B9B4EC1'>Het tijdstip waarop een versie van een BAG-object is beëindigd in de registratie van bronhouder. Dit tijdstip wordt vastgelegd in de <i>eindRegistratie</i>.</p>
 
-<p id='70B2A07E'><b>tijdstipRegistratieLV</b><b>:</b></p>
-<p id='2D23822E'>Dit is het tijdstip waarop een versie van een BAG-object is opgenomen in de registratie van de landelijke voorziening. De gegevens komen daarmee beschikbaar voor afnemers. Dit tijdstip wordt vastgelegd in de <i>tijdstipRegistratieLV</i>.</p>
+<p id='70B2A07E'><b>tijdstipRegistratieLV:</b></p>
+<p style='margin-left: 12.5mm;' id='2D23822E'>Dit is het tijdstip waarop een versie van een BAG-object is opgenomen in de registratie van de landelijke voorziening. De gegevens komen daarmee beschikbaar voor afnemers. Dit tijdstip wordt vastgelegd in de <i>tijdstipRegistratieLV</i>.</p>
 
 <p id='47439ECA'>De BAG legt formele historie (<i>tijdstipRegistratie</i> en <i>eindRegistratie</i>) en <i>tijdstipRegistratieLV</i> vast met de nauwkeurigheid van datum en tijd in uren, minuten, seconden en milliseconden.</p>
 

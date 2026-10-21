@@ -8,7 +8,8 @@ var documentConfig =
   specType: "st",
   license: "cc-by-nd",
   publishDate: "2026-10-20",
-  publishVersion: "2.0.1",
+  //weglaten zodat laats gepubliceerde versie op docs weggelaten wordt
+  //publishVersion: "2.0.1",
   github: "https://github.com/geonovum/bag-imbag/",
   issueBase: "https://github.com/geonovum/bag-imbag/issues/",
   edDraftURI: "https://geonovum.github.io/bag-imbag/",

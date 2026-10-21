@@ -149,15 +149,15 @@
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='2295DBAB'>[1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='6A18EA03'>Zie § <a href='#6E03DE7B'>7.2.1</a></p></td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='350B5F2E'>Naam</p></td>
+<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='350B5F2E'>naam</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='104F34AA'>[1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='49A42623'>Zie § <a href='#0906A70B'>7.2.2</a></p></td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='7EE0C87A'>Type</p></td>
+<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='7EE0C87A'>type</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='1077DA59'>[1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='61003CB5'>Zie § <a href='#06E3195B'>7.2.3</a></p></td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='00E94C18'>Status</p></td>
+<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='00E94C18'>status</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='1118E114'>[1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='027F8421'>Zie § <a href='#04CF3295'>7.2.4</a></p></td>
 </tr>
@@ -272,7 +272,7 @@
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='6FC77C11'>[0..1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='52EF92AF'>Zie § <a href='#3AC817A6'>7.3.4</a></p></td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='2FED3E37'>Postcode</p></td>
+<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='2FED3E37'>postcode</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='3B7897FA'>[0..1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='1C6B1D0D'>Zie § <a href='#4DCE7A44'>7.3.5</a></p></td>
 </tr>
@@ -280,7 +280,7 @@
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='038B065E'>[1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='077FE5B8'>Zie § <a href='#5F76232D'>7.3.6</a></p></td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='1FC23DA2'>Status</p></td>
+<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='1FC23DA2'>status</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='79C33143'>[1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='5045C722'>Zie § <a href='#3E65EB13'>7.3.7</a></p></td>
 </tr>
@@ -545,7 +545,7 @@
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='1605F519'>[1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='7D9870C8'>Zie § <a href='#11F09E59'>7.6.1</a></p></td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='125B8D46'>Status</p></td>
+<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='125B8D46'>status</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='5D477DC3'>[1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='1AB078AF'>Zie § <a href='#1A634FAB'>7.6.2</a></p></td>
 </tr>
@@ -629,7 +629,7 @@
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='1584083E'>[1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='053CE5DA'>Zie § <a href='#0284B8AB'>7.7.1</a></p></td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='25E64F18'>Status</p></td>
+<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='25E64F18'>status</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='0F751933'>[1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='1A5465F6'>Zie § <a href='#20281AE3'>7.7.2</a></p></td>
 </tr>
@@ -725,7 +725,7 @@
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='4E1B50C1'>[1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='08F5CE9D'>Zie § <a href='#5CC0A171'>7.8.4</a></p></td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='0BE6242C'>Status</p></td>
+<tr><td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='0BE6242C'>status</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='1706557F'>[1]</p></td>
 <td class='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000;'><p id='690AB4BD'>Zie § <a href='#7A5DBFC0'>7.8.5</a></p></td>
 </tr>
