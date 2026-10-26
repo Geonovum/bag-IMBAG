@@ -4,7 +4,7 @@ var documentConfig =
   subtitle: "versie 2.0.1",
   shortName: "imbag",
   pubDomain: "bag",
-  specStatus: "wv",
+  specStatus: "vv",
   specType: "st",
   license: "cc-by-nd",
   publishDate: "2026-10-20",
