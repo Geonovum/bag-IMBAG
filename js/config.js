@@ -11,8 +11,10 @@ var documentConfig =
   latestVersion: [
     "https://test.docs.geostandaarden.nl/bag/vv-st-imbag-20261020/"
   ],
-  //weglaten zodat laats gepubliceerde versie op docs weggelaten wordt
   publishVersion: "2.0.1",
+  //-- Voor dit blok geldt: alleen als er eerdere versies zijn en altijd beide aan/uit! Vorige versie kan ook cv of vv zijn.
+  // previousPublishDate: "2026-10-20",
+  // previousMaturity: "vv",  
   prevVersion: "https://www.geobasisregistraties.nl/site/binaries/site-content/collections/documents/2018/03/12/catalogus-2018/Catalogus-BAG-2018.pdf",
   github: "https://github.com/geonovum/bag-imbag/",
   issueBase: "https://github.com/geonovum/bag-imbag/issues/",
