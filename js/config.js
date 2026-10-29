@@ -16,9 +16,9 @@ var documentConfig =
   // previousPublishDate: "2026-10-20",
   // previousMaturity: "vv",  
   prevVersion: "https://www.geobasisregistraties.nl/site/binaries/site-content/collections/documents/2018/03/12/catalogus-2018/Catalogus-BAG-2018.pdf",
-  github: "https://github.com/geonovum/bag-imbag/",
-  issueBase: "https://github.com/geonovum/bag-imbag/issues/",
-  edDraftURI: "https://geonovum.github.io/bag-imbag/",
+  github: "https://github.com/geonovum/imbag/",
+  issueBase: "https://github.com/geonovum/imbag/issues/",
+  edDraftURI: "https://geonovum.github.io/imbag/",
   canonicalURI: "https://docs.geostandaarden.nl/bag/imbag/",
   editors: [
     {
